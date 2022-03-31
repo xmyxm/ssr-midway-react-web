@@ -1,0 +1,6 @@
+2022-03-31 16:59:32,629 INFO 80217 [Timer] /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41427373ms at 2022-04-01 04:30:00.002
+2022-03-31 16:59:32,629 INFO 80217 [Timer] /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25227371ms at 2022-04-01 00:00:00.000
+2022-03-31 16:59:32,630 INFO 80217 [Timer] /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25228371ms at 2022-04-01 00:00:01.001
+2022-03-31 16:59:32,165 INFO 80217 [egg-schedule]: register schedule /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-31 16:59:32,165 INFO 80217 [egg-schedule]: register schedule /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-31 16:59:32,165 INFO 80217 [egg-schedule]: register schedule /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

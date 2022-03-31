@@ -1,0 +1,3 @@
+2022-03-31 16:59:31,737 INFO 80217 [egg:logger] init all loggers with options: {"dir":"/Users/chenxuanfeng/mydata/ssr-midway-react-web/logs/midway-react-ssr","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-31 16:59:31,737 INFO 80217 [egg:core] dump config after load, 8ms
+2022-03-31 16:59:31,951 INFO 80217 [egg:core] dump config after ready, 4ms

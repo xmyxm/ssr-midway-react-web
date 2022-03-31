@@ -1,0 +1,15 @@
+2022-03-31 16:59:31,989 INFO 80217 [egg:logger] init all loggers with options: {"dir":"/Users/chenxuanfeng/mydata/ssr-midway-react-web/logs/midway-react-ssr","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-31 16:59:31,989 INFO 80217 [egg:core] dump config after load, 6ms
+2022-03-31 16:59:32,165 INFO 80217 [egg-multipart] stream mode enable
+2022-03-31 16:59:32,586 INFO 80217 [egg-static] starting static serve / -> /Users/chenxuanfeng/mydata/ssr-midway-react-web/build
+2022-03-31 16:59:32,587 INFO 80217 [egg-static] starting static serve / -> /Users/chenxuanfeng/mydata/ssr-midway-react-web/public
+2022-03-31 16:59:32,587 INFO 80217 [egg-static] starting static serve / -> /Users/chenxuanfeng/mydata/ssr-midway-react-web/build/client
+2022-03-31 16:59:32,591 INFO 80217 [egg-security] use csrf middleware
+2022-03-31 16:59:32,593 INFO 80217 [egg-security] use methodnoallow middleware
+2022-03-31 16:59:32,594 INFO 80217 [egg-security] use noopen middleware
+2022-03-31 16:59:32,596 INFO 80217 [egg-security] use nosniff middleware
+2022-03-31 16:59:32,598 INFO 80217 [egg-security] use xssProtection middleware
+2022-03-31 16:59:32,599 INFO 80217 [egg-security] use xframe middleware
+2022-03-31 16:59:32,601 INFO 80217 [egg-security] use dta middleware
+2022-03-31 16:59:32,601 INFO 80217 [egg-security] compose 7 middlewares into one security middleware
+2022-03-31 16:59:32,625 INFO 80217 [egg:core] dump config after ready, 2ms

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1648717167478,
+    "end": 1648717171951,
+    "duration": 4473,
+    "pid": 80217,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1648717171952,
+    "end": 1648717172623,
+    "duration": 671,
+    "pid": 80217,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1648717171953,
+    "end": 1648717171961,
+    "duration": 8,
+    "pid": 80217,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1648717171961,
+    "end": 1648717171983,
+    "duration": 22,
+    "pid": 80217,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1648717171961,
+    "end": 1648717171962,
+    "duration": 1,
+    "pid": 80217,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1648717171962,
+    "end": 1648717171963,
+    "duration": 1,
+    "pid": 80217,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-session/config/config.default.js",
+    "start": 1648717171963,
+    "end": 1648717171963,
+    "duration": 0,
+    "pid": 80217,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/config/config.default.js",
+    "start": 1648717171964,
+    "end": 1648717171964,
+    "duration": 0,
+    "pid": 80217,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1648717171965,
+    "end": 1648717171965,
+    "duration": 0,
+    "pid": 80217,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-onerror/config/config.default.js",
+    "start": 1648717171966,
+    "end": 1648717171966,
+    "duration": 0,
+    "pid": 80217,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-i18n/config/config.default.js",
+    "start": 1648717171966,
+    "end": 1648717171966,
+    "duration": 0,
+    "pid": 80217,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-schedule/config/config.default.js",
+    "start": 1648717171967,
+    "end": 1648717171967,
+    "duration": 0,
+    "pid": 80217,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-multipart/config/config.default.js",
+    "start": 1648717171968,
+    "end": 1648717171968,
+    "duration": 0,
+    "pid": 80217,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1648717171968,
+    "end": 1648717171968,
+    "duration": 0,
+    "pid": 80217,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-static/config/config.default.js",
+    "start": 1648717171969,
+    "end": 1648717171969,
+    "duration": 0,
+    "pid": 80217,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-view/config/config.default.js",
+    "start": 1648717171970,
+    "end": 1648717171970,
+    "duration": 0,
+    "pid": 80217,
+    "index": 15
+  },
+  {
+    "name": "Require(12) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/config/config.default.js",
+    "start": 1648717171972,
+    "end": 1648717171972,
+    "duration": 0,
+    "pid": 80217,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/config/config.default.js",
+    "start": 1648717171974,
+    "end": 1648717171974,
+    "duration": 0,
+    "pid": 80217,
+    "index": 17
+  },
+  {
+    "name": "Require(14) config/config.default.ts",
+    "start": 1648717171975,
+    "end": 1648717171976,
+    "duration": 1,
+    "pid": 80217,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/config/config.local.js",
+    "start": 1648717171977,
+    "end": 1648717171977,
+    "duration": 0,
+    "pid": 80217,
+    "index": 19
+  },
+  {
+    "name": "Require(16) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-view/config/config.local.js",
+    "start": 1648717171979,
+    "end": 1648717171979,
+    "duration": 0,
+    "pid": 80217,
+    "index": 20
+  },
+  {
+    "name": "Require(17) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/config/config.local.js",
+    "start": 1648717171981,
+    "end": 1648717171981,
+    "duration": 0,
+    "pid": 80217,
+    "index": 21
+  },
+  {
+    "name": "Require(18) config/config.local.ts",
+    "start": 1648717171983,
+    "end": 1648717171983,
+    "duration": 0,
+    "pid": 80217,
+    "index": 22
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1648717171990,
+    "end": 1648717172019,
+    "duration": 29,
+    "pid": 80217,
+    "index": 23
+  },
+  {
+    "name": "Require(19) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-session/app/extend/application.js",
+    "start": 1648717171991,
+    "end": 1648717171992,
+    "duration": 1,
+    "pid": 80217,
+    "index": 24
+  },
+  {
+    "name": "Require(20) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/app/extend/application.js",
+    "start": 1648717171992,
+    "end": 1648717171993,
+    "duration": 1,
+    "pid": 80217,
+    "index": 25
+  },
+  {
+    "name": "Require(21) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1648717171994,
+    "end": 1648717171995,
+    "duration": 1,
+    "pid": 80217,
+    "index": 26
+  },
+  {
+    "name": "Require(22) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1648717171997,
+    "end": 1648717171998,
+    "duration": 1,
+    "pid": 80217,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-view/app/extend/application.js",
+    "start": 1648717171998,
+    "end": 1648717172001,
+    "duration": 3,
+    "pid": 80217,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-mock/app/extend/application.js",
+    "start": 1648717172001,
+    "end": 1648717172006,
+    "duration": 5,
+    "pid": 80217,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/mock/app/extend/application.js",
+    "start": 1648717172007,
+    "end": 1648717172010,
+    "duration": 3,
+    "pid": 80217,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/app/extend/application.js",
+    "start": 1648717172011,
+    "end": 1648717172012,
+    "duration": 1,
+    "pid": 80217,
+    "index": 31
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1648717172019,
+    "end": 1648717172033,
+    "duration": 14,
+    "pid": 80217,
+    "index": 32
+  },
+  {
+    "name": "Require(27) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/app/extend/request.js",
+    "start": 1648717172025,
+    "end": 1648717172027,
+    "duration": 2,
+    "pid": 80217,
+    "index": 33
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1648717172034,
+    "end": 1648717172049,
+    "duration": 15,
+    "pid": 80217,
+    "index": 34
+  },
+  {
+    "name": "Require(28) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/app/extend/response.js",
+    "start": 1648717172040,
+    "end": 1648717172042,
+    "duration": 2,
+    "pid": 80217,
+    "index": 35
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1648717172049,
+    "end": 1648717172061,
+    "duration": 12,
+    "pid": 80217,
+    "index": 36
+  },
+  {
+    "name": "Require(29) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/app/extend/context.js",
+    "start": 1648717172050,
+    "end": 1648717172050,
+    "duration": 0,
+    "pid": 80217,
+    "index": 37
+  },
+  {
+    "name": "Require(30) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1648717172050,
+    "end": 1648717172050,
+    "duration": 0,
+    "pid": 80217,
+    "index": 38
+  },
+  {
+    "name": "Require(31) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1648717172051,
+    "end": 1648717172051,
+    "duration": 0,
+    "pid": 80217,
+    "index": 39
+  },
+  {
+    "name": "Require(32) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1648717172052,
+    "end": 1648717172052,
+    "duration": 0,
+    "pid": 80217,
+    "index": 40
+  },
+  {
+    "name": "Require(33) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-view/app/extend/context.js",
+    "start": 1648717172053,
+    "end": 1648717172053,
+    "duration": 0,
+    "pid": 80217,
+    "index": 41
+  },
+  {
+    "name": "Require(34) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/app/extend/context.js",
+    "start": 1648717172054,
+    "end": 1648717172054,
+    "duration": 0,
+    "pid": 80217,
+    "index": 42
+  },
+  {
+    "name": "Require(35) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1648717172055,
+    "end": 1648717172055,
+    "duration": 0,
+    "pid": 80217,
+    "index": 43
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1648717172061,
+    "end": 1648717172099,
+    "duration": 38,
+    "pid": 80217,
+    "index": 44
+  },
+  {
+    "name": "Require(36) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/app/extend/helper.js",
+    "start": 1648717172062,
+    "end": 1648717172084,
+    "duration": 22,
+    "pid": 80217,
+    "index": 45
+  },
+  {
+    "name": "Require(37) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg/app/extend/helper.js",
+    "start": 1648717172089,
+    "end": 1648717172090,
+    "duration": 1,
+    "pid": 80217,
+    "index": 46
+  },
+  {
+    "name": "Load app.js",
+    "start": 1648717172099,
+    "end": 1648717172147,
+    "duration": 48,
+    "pid": 80217,
+    "index": 47
+  },
+  {
+    "name": "Require(38) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-session/app.js",
+    "start": 1648717172099,
+    "end": 1648717172101,
+    "duration": 2,
+    "pid": 80217,
+    "index": 48
+  },
+  {
+    "name": "Require(39) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-security/app.js",
+    "start": 1648717172102,
+    "end": 1648717172105,
+    "duration": 3,
+    "pid": 80217,
+    "index": 49
+  },
+  {
+    "name": "Require(40) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-onerror/app.js",
+    "start": 1648717172106,
+    "end": 1648717172116,
+    "duration": 10,
+    "pid": 80217,
+    "index": 50
+  },
+  {
+    "name": "Require(41) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-i18n/app.js",
+    "start": 1648717172117,
+    "end": 1648717172130,
+    "duration": 13,
+    "pid": 80217,
+    "index": 51
+  },
+  {
+    "name": "Require(42) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-schedule/app.js",
+    "start": 1648717172131,
+    "end": 1648717172133,
+    "duration": 2,
+    "pid": 80217,
+    "index": 52
+  },
+  {
+    "name": "Require(43) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-multipart/app.js",
+    "start": 1648717172133,
+    "end": 1648717172135,
+    "duration": 2,
+    "pid": 80217,
+    "index": 53
+  },
+  {
+    "name": "Require(44) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-logrotator/app.js",
+    "start": 1648717172135,
+    "end": 1648717172136,
+    "duration": 1,
+    "pid": 80217,
+    "index": 54
+  },
+  {
+    "name": "Require(45) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-static/app.js",
+    "start": 1648717172137,
+    "end": 1648717172138,
+    "duration": 1,
+    "pid": 80217,
+    "index": 55
+  },
+  {
+    "name": "Require(46) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/midway-schedule/app.js",
+    "start": 1648717172139,
+    "end": 1648717172141,
+    "duration": 2,
+    "pid": 80217,
+    "index": 56
+  },
+  {
+    "name": "Require(47) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/egg-mock/app.js",
+    "start": 1648717172141,
+    "end": 1648717172142,
+    "duration": 1,
+    "pid": 80217,
+    "index": 57
+  },
+  {
+    "name": "Require(48) /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/app.js",
+    "start": 1648717172144,
+    "end": 1648717172146,
+    "duration": 2,
+    "pid": 80217,
+    "index": 58
+  },
+  {
+    "name": "Require(49) app.ts",
+    "start": 1648717172146,
+    "end": 1648717172147,
+    "duration": 1,
+    "pid": 80217,
+    "index": 59
+  },
+  {
+    "name": "Did Load in /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/app.js:didLoad",
+    "start": 1648717172166,
+    "end": 1648717172287,
+    "duration": 121,
+    "pid": 80217,
+    "index": 60
+  },
+  {
+    "name": "Load Service",
+    "start": 1648717172166,
+    "end": 1648717172173,
+    "duration": 7,
+    "pid": 80217,
+    "index": 61
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1648717172166,
+    "end": 1648717172173,
+    "duration": 7,
+    "pid": 80217,
+    "index": 62
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1648717172174,
+    "end": 1648717172286,
+    "duration": 112,
+    "pid": 80217,
+    "index": 63
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1648717172174,
+    "end": 1648717172286,
+    "duration": 112,
+    "pid": 80217,
+    "index": 64
+  },
+  {
+    "name": "Load Controller",
+    "start": 1648717172286,
+    "end": 1648717172286,
+    "duration": 0,
+    "pid": 80217,
+    "index": 65
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1648717172286,
+    "end": 1648717172286,
+    "duration": 0,
+    "pid": 80217,
+    "index": 66
+  },
+  {
+    "name": "Load Router",
+    "start": 1648717172286,
+    "end": 1648717172287,
+    "duration": 1,
+    "pid": 80217,
+    "index": 67
+  },
+  {
+    "name": "Will Ready in /Users/chenxuanfeng/mydata/ssr-midway-react-web/node_modules/@midwayjs/web/app.js:willReady",
+    "start": 1648717172287,
+    "end": 1648717172604,
+    "duration": 317,
+    "pid": 80217,
+    "index": 68
+  },
+  {
+    "name": "Will Ready in app.ts:willReady",
+    "start": 1648717172287,
+    "end": 1648717172623,
+    "duration": 336,
+    "pid": 80217,
+    "index": 69
+  }
+]
